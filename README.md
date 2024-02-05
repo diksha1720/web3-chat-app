@@ -1,14 +1,20 @@
-Decentralized Communication with Avalanche and Web3.js:
+#Decentralized Communication with Avalanche and Web3.js:
 
-Experience a secure and censorship-resistant communication platform powered by blockchain technology. This web chat application leverages the Avalanche network and Web3.js to enable direct connections between users without relying on centralized servers.
+##Experience a secure and censorship-resistant communication platform powered by blockchain technology. This web chat application leverages the Avalanche network and Web3.js to enable direct connections between users without relying on centralized servers.
 
-Key Features:
+###Key Features:
 
-User Registration: Create a unique identity on the Avalanche network with ease. Simply connect your compatible crypto wallet to register and embark on your secure messaging journey.
+####User Registration: Create a unique identity on the Avalanche network with ease. Simply connect your compatible crypto wallet to register and embark on your secure messaging journey.
+
 Friend Management: Find and add friends seamlessly using their wallet addresses. Build your own trusted network for communication.
+
 End-to-End Encrypted Messaging: Send and receive private messages with robust encryption, ensuring confidentiality and data integrity.
+
 Peer-to-Peer Communication: Engage in direct communication with your friends without intermediaries. Your messages go directly from your wallet to theirs, fostering trust and privacy.
+
 Blockchain-Based Storage: Leverage the immutable and transparent nature of Avalanche to store messages securely and reliably.
+
+
 Technical Specifications:
 
 Blockchain: Avalanche Network
